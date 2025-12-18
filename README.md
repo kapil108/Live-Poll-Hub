@@ -17,7 +17,7 @@ A real-time, interactive polling application built for classrooms and workshops.
 
 -   **Frontend**: React, TypeScript, Vite, Tailwind CSS, Shadcn UI
 -   **Backend**: Node.js, Express, Socket.io
--   **Deployment**: Vercel (Frontend), Railway (Backend)
+-   **Deployment**: Vercel (Frontend), Render (Backend)
 
 ## 🚀 Getting Started
 
@@ -61,14 +61,14 @@ A real-time, interactive polling application built for classrooms and workshops.
 
 ## 🌍 Deployment
 
-### Backend (Railway)
-1.  Connect your repo to Railway.
+### Backend (Render)
+1.  Connect your repo to Render.
 2.  Set Root Directory to `/server`.
 3.  Deploy.
 
 ### Frontend (Vercel)
 1.  Connect your repo to Vercel.
-2.  Add Environment Variable: `VITE_BACKEND_URL` = `https://your-railway-app-url.up.railway.app`
+2.  Add Environment Variable: `VITE_BACKEND_URL` = `https://your-app-name.onrender.com`
 3.  Deploy.
 
 ## 🤝 Contributing
