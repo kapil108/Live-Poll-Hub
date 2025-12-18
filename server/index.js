@@ -6,6 +6,10 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 
+app.get('/', (req, res) => {
+    res.send('<h1>Live Poll Hub Server is Running! 🚀</h1><p>You can now connect the frontend to this URL.</p>');
+});
+
 const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
