@@ -4,6 +4,9 @@ A real-time, interactive polling application built for classrooms and workshops.
 
 ![Project Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://live-poll-hub.vercel.app/)
+
+## 🔗 Live Demo: [https://live-poll-hub.vercel.app/](https://live-poll-hub.vercel.app/)
 
 ## 🌟 Features
 
